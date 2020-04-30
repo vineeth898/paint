@@ -1,8 +1,7 @@
 var pen=[];
 var penpath=[];
-function preload(){
-    bg=loadImage("sprites/bg.png");
-}
+
+
 function setup(){
     var canvas = createCanvas(1450,850);
 }
